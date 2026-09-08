@@ -2,6 +2,10 @@
 
 An AI-powered frontend engineering capstone project built as part of the FlyRank Front-end AI Engineering track.
 
+## Project Description
+
+This capstone demonstrates best practices in modern frontend development with a focus on responsible AI integration. The project serves as a comprehensive showcase of frontend engineering skills—including responsive design, component architecture, and clean code principles—while exploring how AI tools can enhance the development workflow and user experience.
+
 ## Project Status
 
 🚧 Setup phase — project development will begin in later assignments.
